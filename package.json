@@ -1,0 +1,24 @@
+{
+  "name": "yixin-shop",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^1.5.1",
+    "echarts": "^5.4.3",
+    "element-plus": "^2.3.14",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.67.0",
+    "vite": "^4.4.5"
+  }
+}
